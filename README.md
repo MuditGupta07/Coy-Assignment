@@ -2,6 +2,8 @@
 
 Standalone "Discover" tab for Coy: swipe profiles, get matched, review matches.
 
+Demo Link: https://drive.google.com/file/d/1HY4YCYC9t14-wf3tyZAYUZ4NBmRg6odb/view?usp=sharing
+
 **Stack:** React (Vite) + Tailwind + framer-motion + lucide-react · Express + better-sqlite3 · Vitest + Supertest
 
 ## Setup
